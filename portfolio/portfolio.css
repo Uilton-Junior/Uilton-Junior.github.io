@@ -1,0 +1,38 @@
+body{ background-image: url(./uilton.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+  
+}
+
+.ul{ color: aliceblue;}
+
+
+.li{color: rgb(255, 242, 0);
+  text-shadow: 1px 1px 10px black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.titulo{color: rgb(198, 203, 54);
+  text-shadow: 1px 1px 10px black;
+
+}
+p{ color: bisque;
+  text-shadow: 1px 1px 10px black;
+
+
+}
+#cidade{ font-style: italic;
+
+}
+#site{ color: bisque;
+  text-shadow: 1px 1px 10px black;
+  font-size: 18px;
+  font-style: italic;
+  text-decoration: underline;
+}
+h2{color: rgb(255, 242, 0);
+  text-shadow: 1px 1px 10px black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
