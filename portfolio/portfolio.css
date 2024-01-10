@@ -6,17 +6,43 @@ body{ background-image: url(./uilton.jpg);
 
 }
 
-.ul{ color: aliceblue;}
+
+.cabeçalho{
+  padding: 20px 50px 20px ; 
+}
+
+.titulo{color: rgb(198, 203, 54);
+  text-shadow: 1px 1px 10px black;
+  width: 50%;
+  margin: auto;
+  
+  
+  }
+
+.ul{ 
+  color: yellow;
+  text-shadow: 1px 1px 10px black;
+  width: 20%;
+  margin: auto;
+ 
+
+}
+
+.image{
+  background-color: #E7B366, #372D19, #0F0A05;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  background-color: #0F0A05;
+  
+}
 
 
 .li{color: rgb(255, 242, 0);
 text-shadow: 1px 1px 10px black;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.titulo{color: rgb(198, 203, 54);
-text-shadow: 1px 1px 10px black;
 
-}
 p{ color: bisque;
 text-shadow: 1px 1px 10px black;
 
@@ -35,4 +61,13 @@ h2{color: rgb(255, 242, 0);
 text-shadow: 1px 1px 10px black;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
+}
+.head { max-width: 50%;
+}
+
+
+.li:hover{
+  font-size: 30px;
+  background-color: #0F0A05;
+  font-style: italic;
 }
